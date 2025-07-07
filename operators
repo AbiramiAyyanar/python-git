@@ -1,0 +1,144 @@
+"""
+1.Arithmatic operators
+2.Assignment operators
+3.Comparison operators
+4.Logical operators
+5.Identity operators
+6.Membership operators
+7.Bitwise operators
+"""
+# Aritimatic operators
+
+"""
+a=6
+b=2
+print(a+b)
+print(a-b)
+print(a/b)
+print(a//b)
+print(a*b)
+print(a**b)
+"""
+# n=23
+# m=n-18
+# print(m)
+
+# number=int(input("enter number"))
+# num=number % 9
+# print(num)
+
+# Assignment operators
+"""
++=
+-=
+*=
+/=
+//=
+%=
+
+"""
+# a=5
+# a+=5
+# print(a)
+
+# a=5
+# a-=5
+# print(a)
+
+# a=5
+# a*=5
+# print(a)
+
+# a=5
+# a/=5
+# print(a)
+
+# a=5
+# a//=5
+# print(a)
+
+# a=5
+# a%=5
+# print(a)
+
+# a=5
+# a**=5
+# print(a)
+
+# comparison operators
+"""
+==
+ !=
+>
+<
+>=
+<=
+"""
+
+# a=10
+# b=20
+# print(a==b)
+# print(a!=b)
+# print(a>b)
+# print(a<b)
+# print(a>=b)
+# print(a<=b)
+
+"""
+
+# Logical operators
+"""
+# and
+# or
+# not
+
+"""
+# csk=7
+# rcb=18
+# print(csk==7 and rcb==18)
+# print(csk==7 or rcb==10)
+# print(not rcb==10)
+
+# Identity operators
+"""
+# is
+# is not
+"""
+# a=["abirami","anusuya"]
+# b=["abirami","anusuya"]
+# c=b
+# print(a is b)
+# print(a is c)
+# print(a is not b)
+# print(a is not c)
+
+# membership operators
+"""
+# in
+# not in
+# """
+# a="lion is always linon"
+# print("lionking" not in a)
+
+
+"""
+# 1-0000
+# 2-0001
+# 3-0010
+# 4-0011
+# 5-0100
+# 6-0110
+# 7-0111
+"""
+
+# a=6
+# b=2
+# print(a & b)
+
+# a=6
+# b=2
+# print(a | b )
+
+
+# print(~5)
+
